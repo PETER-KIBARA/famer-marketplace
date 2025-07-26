@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <!-- SignUp Screen -->
+    <string name="back_to_login">BACK TO LOGIN</string>
+    <string name="back_to_login_cd">Navigate back to login screen</string>
+    <string name="sign_up_title">SIGN UP</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="sign_up_button">SIGN UP</string>
+
+    <!-- Validation Errors (Examples) -->
+    <string name="error_name_empty">Name cannot be empty</string>
+    <string name="error_email_empty">Email cannot be empty</string>
+    <string name="error_email_invalid">Invalid email format</string>
+    <string name="error_password_empty">Password cannot be empty</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_confirm_password_empty">Confirm password cannot be empty</string>
+    <string name="error_passwords_no_match">Passwords do not match</string>
+    <string name="error_signup_failed">Sign up failed. Please try again.</string>
+</resources>
